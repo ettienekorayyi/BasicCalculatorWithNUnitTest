@@ -1,0 +1,7 @@
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\BasicCalculatorWithNUnitTest\BasicCalculatorWithNUnitTest\bin\Debug\BasicCalculatorWithNUnitTest.exe.config
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\BasicCalculatorWithNUnitTest\BasicCalculatorWithNUnitTest\bin\Debug\BasicCalculatorWithNUnitTest.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\BasicCalculatorWithNUnitTest\BasicCalculatorWithNUnitTest\bin\Debug\BasicCalculatorWithNUnitTest.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\BasicCalculatorWithNUnitTest\BasicCalculatorWithNUnitTest\bin\Debug\nunit.framework.dll
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\BasicCalculatorWithNUnitTest\BasicCalculatorWithNUnitTest\bin\Debug\nunit.framework.xml
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\BasicCalculatorWithNUnitTest\BasicCalculatorWithNUnitTest\obj\Debug\BasicCalculatorWithNUnitTest.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Self Projects\BasicCalculatorWithNUnitTest\BasicCalculatorWithNUnitTest\obj\Debug\BasicCalculatorWithNUnitTest.pdb
